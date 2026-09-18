@@ -43,13 +43,13 @@
 
 ---
 ## 🎀 Aprendendo
-
+ ```
 Java              ███████░░░  aprendendo
 JavaScript        ███████░░░  praticando
 React             ██████░░░░  explorando
 PostgreSQL        ███████░░░  praticando
 Git & GitHub      ████████░░  evoluindo
-
+```
 ## 🖤 Atualmente
 
 💻 **Estagiária de Desenvolvimento — SEPOG**
