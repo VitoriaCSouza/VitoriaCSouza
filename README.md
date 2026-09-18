@@ -14,7 +14,7 @@
 
 ---
 
-## 🕯️ about me
+## 🌙 about me
 
 🎓 Bacharel em Ciências Biológicas  
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
@@ -26,11 +26,20 @@
 
 ## 🖤 tech stack
 
-<div align="center">
+### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=java,js,react,postgres,git,github,vscode,docker" />
+### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</div>
+### 🛠️ Ferramentas & Versioneiros
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 ## 🎀 aprendendo
@@ -55,4 +64,4 @@ Git & GitHub      ████████░░  evoluindo
 🧩 Desenvolvimento de sistemas
 
 > Aprendendo na prática como uma ideia se transforma
-> em uma solução de software. 🕯️
+> em uma solução de software. 🌙
