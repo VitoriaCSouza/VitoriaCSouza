@@ -44,7 +44,6 @@
 ---
 ## 🎀 Aprendendo
 
-```text
 Java              ███████░░░  aprendendo
 JavaScript        ███████░░░  praticando
 React             ██████░░░░  explorando
