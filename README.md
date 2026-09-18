@@ -63,10 +63,6 @@ Git & GitHub      ████████░░  evoluindo
 > Aprendendo na prática como uma ideia se transforma
 > em uma solução de software. 🌙
 
-<div align="center">
-  <img src="https://media.giphy.com/media/FJ0yDY9uAHzxLeKfIn/giphy.gif" width="200px" alt="Gatinho acenando">
-</div>
-
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitoriaCSouza/VitoriaCSouza/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
