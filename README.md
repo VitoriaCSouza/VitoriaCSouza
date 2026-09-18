@@ -14,7 +14,7 @@
 
 ---
 
-## 🌙 about me
+## 🌙 About me
 
 🎓 Bacharel em Ciências Biológicas  
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
@@ -24,7 +24,7 @@
 
 ---
 
-## 🖤 tech stack
+## 🖤 Tech stack
 
 ### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,7 +42,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-## 🎀 aprendendo
+## 🎀 Aprendendo
 
 ```text
 Java              ███████░░░  aprendendo
