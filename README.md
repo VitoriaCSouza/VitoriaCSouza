@@ -63,5 +63,6 @@ Git & GitHub      ████████░░  evoluindo
 > Aprendendo na prática como uma ideia se transforma
 > em uma solução de software. 🌙
 
-<img width="458" height="450" alt="giphy" src="https://github.com/user-attachments/assets/e249b28c-e487-402f-8fea-d82e97461893" />
 <div align="center">
+  <img src="https://media.giphy.com/media/FJ0yDY9uAHzxLeKfIn/giphy.gif" width="200px" alt="Gatinho acenando">
+</div>
