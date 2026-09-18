@@ -66,4 +66,6 @@ Git & GitHub      ████████░░  evoluindo
 > Aprendendo na prática como uma ideia se transforma
 > em uma solução de software. 🌙
 
-<img src="https://giphy.com/gifs/cat-elgatitolover-elgatitoloves-FJ0yDY9uAHzxLeKfIn" width="200px" alt="Gatinho acenando">
+<div align="center">
+  <img src="https://i.giphy.com/FJ0yDY9uAHzxLeKfIn.gif" width="180px" alt="Gatinho acenando">
+</div>
